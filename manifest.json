@@ -3,13 +3,13 @@
   "name": "Vonfire App",
   "icons": [
     {
-      "src": "https://drive.google.com/file/d/1VpAoQdnAM7SH5IHzYN78DJcRABGOyW5k/view?usp=sharing",
-      "type": "image/png",
+      "src": "https://dc393e05f556fff5f9a347cbdd496c6f.cdn.bubble.io/f1751049686080x875345193418116500/logo.jpg",
+      "type": "image/jpeg",
       "sizes": "192x192"
     },
     {
-      "src": "https://drive.google.com/file/d/1VpAoQdnAM7SH5IHzYN78DJcRABGOyW5k/view?usp=sharing",
-      "type": "image/png",
+      "src": "https://dc393e05f556fff5f9a347cbdd496c6f.cdn.bubble.io/f1751049686080x875345193418116500/logo.jpg",
+      "type": "image/jpeg",
       "sizes": "512x512"
     }
   ],
