@@ -1,0 +1,21 @@
+{
+  "short_name": "Vonfire",
+  "name": "Vonfire App",
+  "icons": [
+    {
+      "src": "https://drive.google.com/file/d/1VpAoQdnAM7SH5IHzYN78DJcRABGOyW5k/view?usp=sharing",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://drive.google.com/file/d/1VpAoQdnAM7SH5IHzYN78DJcRABGOyW5k/view?usp=sharing",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#000000"
+}
